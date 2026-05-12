@@ -1,3 +1,3 @@
-# clone-tabnews
+# Projeto de conteúdo de programação
 
-Clone do TabNews para treinar com o curso.dev
+em andamento...
